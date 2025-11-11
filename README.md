@@ -9,8 +9,11 @@ The goal of these dashboards is to explore what possible policies and safety mea
 There are 4 questions presented which are answered through using the dashboards:
 
 Q1) What vehicle type was involved in the most casualties?
+
 Q2) Does reducing the speed limit reduce accident severity?
+
 Q3) Which age group was involved in the most accidents throughout the year, proportionally?
+
 Q4) Where do accidents involving 8+ vehicles on single carriageways, at speed limits with the highest proportion of fatal accidents, cause the most casualties?
 
 These questions being answered helps to explore the potential specific policies that can be put in place.
